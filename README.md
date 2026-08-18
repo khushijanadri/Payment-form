@@ -1,2 +1,2 @@
 #Payment-Form
-Creating a payment form using html.
+Creating a structure of payment form using html.
